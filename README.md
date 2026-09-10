@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Harish Rajkumar 👋
 
-<!--
-**Harish-Rajkumar-05/Harish-Rajkumar-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.E. Computer Science & Engineering Graduate | Linux & Cloud Enthusiast | Full Stack Development
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate interested in building practical software, cloud, and Linux-based solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- **Languages:** Java, JavaScript, SQL
+- **Web Development:** HTML, CSS, React.js, Node.js
+- **Linux & DevOps:** Linux, Bash, Git, Docker
+- **Cloud:** AWS, EC2, Lambda, CloudWatch
+- **Database:** MySQL
+
+### 🚀 Current Projects
+
+- 🐧 **Linux Sentinel** — Linux server monitoring and automation project
+- ⚛️ **MERN Stack Project** — Full-stack web application
+- ☁️ **AWS Project** — Cloud-based project focused on AWS services and operations
+
+### 📚 Currently Learning
+
+- Linux System Administration
+- Bash Automation
+- DevOps
+- Cloud Computing
+- Full Stack Development
+- Data Structures & Algorithms
+
+### 🎯 Career Interests
+
+Software Development | Cloud | DevOps | Application & Technical Support
+
+---
+
+⭐ Thanks for visiting my profile!
